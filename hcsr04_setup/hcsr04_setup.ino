@@ -3,8 +3,8 @@
 // line up with function names like forward.  Value can be 1 or -1
 const int offsetA = 1;
 const int offsetB = 1;
-const int trigPin = 9;
-const int echoPin = 10;
+const int trigPin = 10;
+const int echoPin = 11;
     // defines variables
 long duration;
 int distance;
